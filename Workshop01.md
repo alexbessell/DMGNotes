@@ -8,7 +8,11 @@
   
 **How do you print things out the debug area?**
 
-you write down 'print("")'
+``` swift
+{
+print("")
+}
+```
 
 **What is the shortcut to run your app?**
 
